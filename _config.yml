@@ -6,6 +6,9 @@ logo: /css/1.jpg
 google_site_verification: 9nIOMU832GQ3lxl6uhZRmoZqg8uISjj5_Cc501Al0TU
 lang: en_US
 
+url: "https://kamilbabayev.github.io/"
+baseurl: ""
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
