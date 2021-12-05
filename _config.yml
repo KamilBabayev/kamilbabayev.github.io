@@ -1,0 +1,21 @@
+# Site settings
+name: Abhijit Annaldas
+title: Abhijit Annaldas - Dreamer, Learner, Doer
+description: Software Engineer by profession and a wildly ambitous dreamer doer at heart. Believes every person has potential to change the world. I'm trying do my bit.
+logo: /css/1.jpg
+google_site_verification: 9nIOMU832GQ3lxl6uhZRmoZqg8uISjj5_Cc501Al0TU
+lang: en_US
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+encoding: utf-8
+
+permalink: /:title.html
+future: false
+
+kramdown:
+  parse_block_html: true
+
+gems:
+  - jekyll-seo-tag
