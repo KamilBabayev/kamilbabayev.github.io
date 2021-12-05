@@ -9,7 +9,7 @@
 title: AasthaMehta
 brief-intro: Full Stack Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://aasthagithub.github.io" # the base hostname & protocol for your site
+url: "https://kamilbabayev.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
