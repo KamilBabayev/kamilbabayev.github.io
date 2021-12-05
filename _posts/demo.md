@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Introduction to DevOps"
+categories: DevOps
+tags: monthly-journal mini-me
+author: Aastha Mehta
+mathjax: false
+---
+* content
+{:toc}
+
+DevOps is very important tech improvement and its application has many benefits to buiessessses anc tech teams.
+
+Thanks.
+
+
+
+
+
+{% raw %}
+## To become GREAT
+‌Wish customer care representatives a good day too. Reciprocate kindness.
+
+## ‌12 feb
+It's hard, but I am stronger than all my weaknesses and excuses!
+
+
+## Today: 18 sep:
+‌everyone has their time & destiny : karma ki chintaa karo, fal ki nahi, also ikigai finding process by Ankur warikoo.
+‌
+## 12 sep: Today was new,
+So much of Python Once again. Dsa until trees udemy<br>
+InternMakers LinkedIn video<br>
+MLH first Hackathon - discord<br>
+Event - live code sharing<br>
+
+## 13 sep:
+Sunsar bhiloda waterfall
+Piazza. Com/checkin/1210
+
+{% endraw %}
