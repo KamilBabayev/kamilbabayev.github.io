@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: AasthaMehta
-brief-intro: Full Stack Dev Engineer
+title: Kamil Babayev
+brief-intro: DevOps Engineer / Rust Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kamilbabayev.github.io" # the base hostname & protocol for your site
 
@@ -16,13 +16,13 @@ permalink: /:year/:month/:day/:title/
 # other links
 twitter_username:
 facebook_username: 
-github_username:  AasthaGithub
-email: gaasthamehta2704@gmail.com
+github_username:  kamilbabayev
+email: kamilyunis@gmail.com
 weibo_username: 
 zhihu_username: 
-linkedIn_username: AasthaMehtaTech
+linkedIn_username: Kamil Babayev
 dribbble_username:
-medium_username: aasthamehta2704
+medium_username: 
 
 description_footer: Thank You for visiting! Hope you loved it.
 
