@@ -10,17 +10,12 @@ mathjax: true
 * content
 {:toc}
 
-blog_info
+Create user with certificates and provide it access to pods.
 
 
 
 
 {% raw %}
-## Heading
-
-## Other links
-
-## PDF Version Preview
 
 # kubernetes
 
@@ -210,8 +205,6 @@ kubectl auth can-i get deployments --as kamilb
 kubectl auth can-i get pods --as kamilb
 ```
 
-## Sayonara
-
-Meet u again!
+Hope it will be useful!
 
 {% endraw %}
