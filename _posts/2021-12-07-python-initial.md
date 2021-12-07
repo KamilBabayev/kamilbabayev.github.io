@@ -13,11 +13,19 @@ mathjax: true
 Python initial notes
 
 
+
+
 {% raw %}
-## Thought Outlets
+## Heading
+
+## Other links
+
+## PDF Version Preview
+
+
 - My ‌everyday power booster: The Indian land & its enormous energy , pure, spiritual, giving life a meaning
-- ‌an enemy made is like a million rupees lost! 
-- ‌i just realised what I fear the most? To be within my mind always. To not let anyone know my real thoughts 
+- ‌an enemy made is like a million rupees lost!
+- ‌i just realised what I fear the most? To be within my mind always. To not let anyone know my real thoughts
 - A master is one who keeps practicing. Levels of intelligence overturn with constant efforts.
 - turn all ur embarrassing experiences into worth to remember ones by embracing them
 
@@ -30,10 +38,6 @@ If you want to control traffic flow at the IP address or port level (OSI layer 3
 kubectl get pods
 kubectl get networkpolicies
 ```
-
-## Other 
-
-
 
 ## Sayonara
 
